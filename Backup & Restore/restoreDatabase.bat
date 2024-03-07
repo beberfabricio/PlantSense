@@ -1,0 +1,1 @@
+sqlcmd -S .\SQLEXPRESS -i ".\scripts\RestorePlantApp.sql"
